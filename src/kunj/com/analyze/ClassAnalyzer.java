@@ -16,8 +16,8 @@ import kunj.com.annotation.Inject;
 import kunj.com.annotation.Service;
 
 public class ClassAnalyzer {
-    public static final String BASE_CLASS_PACKAGE_NAME = "kunj.com.test";
-    public static final String BASE_CLASS_PACKAGE_FILE_PATH = "bin/kunj/com/test/";
+    public static final String BASE_CLASS_PACKAGE_NAME = "kunj.com.app";
+    public static final String BASE_CLASS_PACKAGE_FILE_PATH = "bin/kunj/com/app/";
         
         
         public  static Map<String, Object> inject() {
