@@ -7,6 +7,6 @@ public class Test {
         ClassAnalyzer.inject();
     }
     public static void main(String[] args) {
-        System.out.println("this is kunJ framework.");
+        System.out.println("--------kunj--------kunj--------kunj--------kunj--------kunj--------kunj");
     }
 }
